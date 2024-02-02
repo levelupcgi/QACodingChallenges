@@ -1,0 +1,15 @@
+Prepration Tips: 
+
+1. Big O notations 
+2. Array, sets, hash map
+3. Stack, Queue, Linked list, trees
+4. Sorting algorithms
+5. Searching algorithms
+6. Dynamic programming
+7. Recursion
+8. Basic analytics
+
+Resources: 
+1. hackerrank
+2. leedcode
+
