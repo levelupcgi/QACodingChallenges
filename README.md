@@ -196,20 +196,23 @@ skills. Here are some tips and resources to help you get ready:
 
 ## Technical Knowledge:
 
-Master the Basics: Ensure you have a strong understanding of the basics of software testing, including different testing
-types and methodologies1.
-Programming Languages: If the role involves test automation, be proficient in relevant programming languages and
-frameworks like Selenium, Puppeteer, Cypress, or Playwright1.
-Practical Skills:
+Master the Basics: Ensure you have a strong understanding of the basics of software testing, including different testing types and methodologies1.
+
+Programming Languages: If the role involves test automation, be proficient in relevant programming languages and  frameworks like Selenium, Puppeteer, Cypress, or Playwright1.
+
+## Practical Skills:
 
 Practice Coding: Engage in coding challenges and projects to sharpen your programming skills2.
+
 Test Automation: Familiarize yourself with test automation tools and practice writing scripts for automated tests1.
 Soft Skills:
 
 Problem-Solving: Be prepared to demonstrate your problem-solving skills through technical tasks or whiteboard sessions
 during the interview1.
+
 Communication: Practice articulating your thought process clearly and effectively, as this is often assessed during
 technical interviews1.
+
 
 ## Subjects to get familiar for Coding interviews
 
