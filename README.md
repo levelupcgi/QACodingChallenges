@@ -1,10 +1,93 @@
-# Preparation for Interviews in FinTech as a QA, BA or Production Support
+# Interview preparation - [Level Up Academy](https://www.levelupacademy.tech/)
+
+Welcome to the **QA Coding Challenges** repository, brought to you
+by [Level Up Academy](https://www.levelupacademy.tech/). This project aims to offer a wide range of coding challenges
+specifically designed to enhance the skills of Quality Assurance (QA) Engineers, Software Development Engineers in
+Test (SDETs), and QA Analysts with a focus on problem-solving, automation, and software testing principles in the
+context of Quality Assurance Engineering, SDET.
+
+## About This Project
+
+The QA Coding Challenges project is a curated collection of challenges that simulate real-world testing scenarios. These
+challenges are intended to sharpen your analytical skills, improve your coding efficiency, and deepen your understanding
+of software testing methodologies. Whether you're preparing for an interview, seeking to improve your testing skills, or
+exploring the QA field, this repository provides valuable resources to assist you on your journey.
+
+In addition to coding challenges, we are planning to include a wealth of resources such as books, helpful links, and
+practical tips on how to prepare for interviews in the IT industry. Our goal is to provide a comprehensive toolkit for
+QA professionals looking to advance their careers.
+
+## Start Your New Career Journey with Level Up Academy
+
+Interested in expanding your knowledge in FinTech? Join Level Up Academy’s FinTech classes to embark on your new career
+journey. Level Up Academy offers cutting-edge courses that are essential for anyone looking to break into the FinTech
+industry or upgrade their skills.
+
+- Sign up today and take the first step towards a rewarding career in FinTech.
+- Join our Telegram Public Group: [Level Up Academy Telegram](https://t.me/+R45QSwvqV3A2pkrc) for updates and networking
+  opportunities.
+- For more information, you can reach us at our office telephone: (646) 470-0764
+- Explore our courses and resources on our [Website](https://www.levelupacademy.tech/).
+  Stay connected with us on [Facebook](https://www.facebook.com/levelupacademytech)
+  and [Instagram](https://www.instagram.com/levelupacademytech).
+
+## Features
+
+- **Diverse Challenges**: From basic algorithms to complex problem-solving scenarios, our challenges cover a wide array
+  of topics relevant to QA and software testing.
+- **Language Agnostic**: While examples may be provided in a specific language, challenges are designed to be solved in
+  any programming language, encouraging diverse solutions.
+- **Real-World Applications**: Challenges are inspired by real-world QA problems, focusing on areas such as test
+  automation, bug hunting, and performance testing.
+- **Community Contributions**: We encourage the community to contribute by adding new challenges, solutions in different
+  programming languages, and improving existing content.
+
+## Getting Started
+
+1. **Clone the Repository**: Start by cloning the repository to your local machine to get access to all the challenges.
+
+   ```
+   git clone https://github.com/levelupcgi/QACodingChallenges.git
+   ```
+
+2. **Choose Your Challenge**: Navigate through the challenges directory and pick a challenge that interests you.
+3. **Solve and Share**: After solving a challenge, we encourage you to share your solution by creating a pull request.
+   This helps others learn from your approach and promotes a collaborative learning environment.
+
+## Contributing
+
+We welcome contributions from everyone! Whether it's adding new challenges, providing solutions in different programming
+languages, improving documentation, or fixing issues, your contributions are greatly appreciated. Please read
+our [CONTRIBUTING.md](https://github.com/levelupcgi/QACodingChallenges/CONTRIBUTING.md) for more information on how to
+get started.
+
+## Support
+
+If you have any questions or need help, please open an issue in the repository, and we'll do our best to assist you.
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/levelupcgi/QACodingChallenges/LICENSE.md) - see the
+LICENSE.md file for details.
+
+## Acknowledgments
+
+- Thank you to all the contributors who have helped to build and maintain this project.
+- Special thanks to [LevelUp CGI](https://github.com/levelupcgi) for initiating and supporting this project.
+
+Join us in making the QA Coding Challenges the go-to resource for QA professionals looking to level up their coding and
+testing skills!
+
+
+------
+
+## Preparation for Interviews in FinTech as a QA, BA or Production Support
 
 Preparing for interviews for QA Analyst, Business Analyst, QA Engineer, SDET (Software Development Engineers in Test)
 and Production Support Analyst positions requires a balanced approach between theoretical knowledge, practical skills,
 and soft skills. Here are some tips and resources to help you prepare:
 
-## 1. Understand the Fundamentals
+### 1. Understand the Fundamentals
 
 Quality Assurance Fundamentals: Understand the basics of QA methodologies, testing types (functional, integration,
 system, acceptance), and levels (unit, integration, system, acceptance).
@@ -20,7 +103,7 @@ types of testing (manual, automated, performance, security), and tools (Selenium
 
 Brush up all of the above with recorded classes of [Level Up Academy](https://www.levelupacademy.tech/).
 
-## 2. Master Technical and Industry-Specific Knowledge:
+### 2. Master Technical and Industry-Specific Knowledge:
 
 Finance and Capital Markets: Utilize [Level Up Academy's](https://www.levelupacademy.tech/) classes on finance, capital
 markets, testing trading systems, FIX protocol, and trade lifecycle. Understanding these areas deeply will allow you to
@@ -38,7 +121,7 @@ ensure you're familiar with BA fundamentals, practices, and tools (SQL, Excel, b
 
 **Contact Said for BA Class recordings and updated materials.**
 
-## 3. Prepare Your Resume and Personal Pitch:
+### 3. Prepare Your Resume and Personal Pitch:
 
 Tailor Your Resume: Include specific projects and responsibilities related to finance, production support, and trade
 lifecycle. Highlight your role in these projects and the impact of your work.
@@ -54,7 +137,7 @@ Situation, Task, Action, Result) method to structure your answers.
 
 Develop examples that demonstrate your problem-solving skills, teamwork, adaptability, and conflict resolution.
 
-## 4. Understand the Job Market and Recruitment Process:
+### 4. Understand the Job Market and Recruitment Process:
 
 Recruitment Process: Familiarize yourself with how the IT job market works, from recruiter screening to final interviews
 with business stakeholders. Understand the roles of hiring managers and the significance of each interview stage.
@@ -66,7 +149,7 @@ cultural fit and your understanding of business needs.
 Develop Questions for the Interviewer: Always have insightful questions prepared for the interviewer. This could be
 about the company's approach to testing, challenges in the finance domain, or the team's culture.
 
-## 5. Get Familiar with CI/CD and DevOps Practices
+### 5. Get Familiar with CI/CD and DevOps Practices
 
 Understand Continuous Integration (CI), Continuous Delivery (CD), and how QA fits into the DevOps culture. Tools like
 Jenkins, GitLab CI, and Travis CI are important to know.
@@ -74,7 +157,7 @@ Jenkins, GitLab CI, and Travis CI are important to know.
 Watch Level Up Academy recorded sessions
 on [Test Automation execution on jenkins (ci/cd this is what they will ask)](https://drive.google.com/drive/folders/1GEP_Bw_mQVpc2RDdZS3AIUk_UygyzwPA?usp=drive_link)
 
-## 6. Practice Problem-Solving and Coding (Technical roles)
+### 6. Practice Problem-Solving and Coding (Technical roles)
 
 Algorithm and Data Structure: Practice coding problems on platforms like LeetCode, HackerRank, or CodeSignal. Focus on
 data structures, algorithms, and system design questions.
@@ -84,14 +167,14 @@ search, login, vending machine test). Understand how to identify edge cases.
 
 **NOTE: see below section for more details on preparation of coding interviews**
 
-## 7. Utilize Available Resources and Support:
+### 7. Utilize Available Resources and Support:
 
 Contact Instructors: Reach out to Lenur for finance and interview preparation classes, and Said for BA materials. Make
 the most of the recorded materials and any updated content provided.
 Practice Interviews: If possible, arrange mock interviews with peers or mentors to simulate the interview experience and
 receive feedback.
 
-## 8. Stay Updated
+### 8. Stay Updated
 
 Keep abreast of the latest trends in software testing, such as AI in testing, test orchestration, and new tools emerging
 in the market.
@@ -109,7 +192,7 @@ Stay Current: Keep up with the latest trends and technologies in QA, finance, an
 Networking: Engage with the community through forums, LinkedIn, and events. Networking can provide insights and
 opportunities in the field.
 
-## 9. General QA Resources
+### 9. General QA Resources
 
 Books:
 
@@ -131,14 +214,14 @@ sector.**
 
 -------
 
-# Preparation for technical part of QA, BA or Production Support Interviews
+## Preparation for technical part of QA, BA or Production Support Interviews
 
 Incorporating SQL, database knowledge, and Linux command line skills into your technical preparation is essential,
 especially for roles in QA and production support within finance and trading environments. These skills not only enhance
 your ability to analyze data but also empower you to troubleshoot and resolve issues more effectively. Here’s how you
 can approach this:
 
-## SQL and Database Knowledge
+### SQL and Database Knowledge
 
 Understand SQL Basics: Master the fundamentals of SQL, including SELECT statements, JOINs, WHERE clauses, GROUP BY, and
 ORDER BY. These are crucial for querying and analyzing data within databases.
@@ -152,7 +235,7 @@ Knowledge of transactions, indexing, and database optimization techniques can be
 Hands-on Practice: Use platforms like w3schools/sql, sqlzoo.net, LeetCode, HackerRank, or real-life projects to practice
 your SQL skills. Working with financial datasets or trading system databases can provide relevant experience.
 
-## Linux and Command Line for Troubleshooting
+### Linux and Command Line for Troubleshooting
 
 Basic to Advanced Linux Commands: Start with basic Linux commands for file management, navigation, and viewing
 contents (ls, cd, cat, grep, find, etc.). Progress to network troubleshooting commands (ping, netstat, ss, curl) and
@@ -167,7 +250,7 @@ monitor system resources, analyze logs with tools like tail and awk, and diagnos
 Secure Shell (SSH) for Remote Management: Understand how to use SSH for secure remote access to servers and devices.
 This is crucial for both QA and production support roles, where remote troubleshooting is common.
 
-## Integrating SQL, Database, and Linux Skills into Your Preparation
+### Integrating SQL, Database, and Linux Skills into Your Preparation
 
 Project-Based Learning: Apply your skills in real-world or simulated projects that mimic finance/trading systems. This
 can involve setting up databases, querying for data analysis, and using Linux for system management.
@@ -189,23 +272,26 @@ trading sectors.**
 
 ------
 
-# Preparing for a coding interviews in the QA
+## Preparing for a coding interviews in the QA
 
 Preparing for a technical interview in the QA field involves a mix of technical knowledge, practical skills, and soft
 skills. Here are some tips and resources to help you get ready:
 
-## Technical Knowledge:
+### Technical Knowledge:
 
-Master the Basics: Ensure you have a strong understanding of the basics of software testing, including different testing types and methodologies1.
+Master the Basics: Ensure you have a strong understanding of the basics of software testing, including different testing
+types and methodologies1.
 
-Programming Languages: If the role involves test automation, be proficient in relevant programming languages and  frameworks like Selenium, Puppeteer, Cypress, or Playwright1.
+Programming Languages: If the role involves test automation, be proficient in relevant programming languages and
+frameworks like Selenium, Puppeteer, Cypress, or Playwright1.
 
-## Practical Skills:
+### Practical Skills:
 
 Practice Coding: Engage in coding challenges and projects to sharpen your programming skills2.
 
 Test Automation: Familiarize yourself with test automation tools and practice writing scripts for automated tests1.
-Soft Skills:
+
+### Soft Skills:
 
 Problem-Solving: Be prepared to demonstrate your problem-solving skills through technical tasks or whiteboard sessions
 during the interview1.
@@ -213,8 +299,7 @@ during the interview1.
 Communication: Practice articulating your thought process clearly and effectively, as this is often assessed during
 technical interviews1.
 
-
-## Subjects to get familiar for Coding interviews
+### Subjects to get familiar for Coding interviews
 
 1. Big O notations (Very Important to understand the Complexity and the efficiency of the Solution)
 2. Array, sets, hash map (List, set and dictionary in Python)
@@ -225,7 +310,7 @@ technical interviews1.
 7. Recursion (good to know topic, usefull to simplify some solutions)
 8. Basic analytics
 
-### Coding Practice Resources:
+#### Coding Practice Resources:
 
 Register and start practicing simple problems every day or at least 3 times a week. Practice makes perfect.
 You don't need to go to medium or hard questions, make sure you filter the problems based on topics as well.
@@ -237,9 +322,9 @@ You don't need to go to medium or hard questions, make sure you filter the probl
 
 ## Contact US
 
-- Akmal, Lenur, Said (text, call or telegram )
 - Level Up Academy Telegram Public Group: https://t.me/+R45QSwvqV3A2pkrc
 - Office tel: (646) 470-0764
 - Website: https://www.levelupacademy.tech/
 - Facebook: https://www.facebook.com/levelupacademytech
 - Instagram: https://www.instagram.com/levelupacademytech
+- Akmal, Lenur, Said (text, call or telegram )
