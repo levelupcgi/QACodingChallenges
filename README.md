@@ -25,14 +25,17 @@ Brush up all of the above with recorded classes of [Level Up Academy](https://ww
 Finance and Capital Markets: Utilize [Level Up Academy's](https://www.levelupacademy.tech/) classes on finance, capital
 markets, testing trading systems, FIX protocol, and trade lifecycle. Understanding these areas deeply will allow you to
 speak confidently about the financial aspects of the roles.
+
 **Contact Lenur on finance and interview preparation class recordings and updated materials.**
 
 Programming and Automation: For SDETs, proficiency in programming languages (Java, Python, C#) and automation
 frameworks (Selenium, Appium) is crucial. Practice writing scripts and automating test cases.
+
 **Contact Akmal or Maria for Tools Class recordings and updated materials.**
 
 Business Analysis: Since [Level Up Academy](https://www.levelupacademy.tech/) provides specialized classes for BA,
 ensure you're familiar with BA fundamentals, practices, and tools (SQL, Excel, business intelligence tools).
+
 **Contact Said for BA Class recordings and updated materials.**
 
 ## 3. Prepare Your Resume and Personal Pitch:
@@ -109,70 +112,104 @@ opportunities in the field.
 ## 9. General QA Resources
 
 Books:
+
 - "Lessons Learned in Software Testing" by Cem Kaner, James Bach, and Bret Pettichord.
 - "Agile Testing: A Practical Guide for Testers and Agile Teams" by Lisa Crispin and Janet Gregory.
 
-- Online Courses: Brush up with [Level Up Academy](https://www.levelupacademy.tech/) recorded sessions. Platforms like Udemy, Coursera, and Pluralsight offer courses on QA fundamentals, automation tools, and programming languages, these   course will help you to brush up the learned knowledge and fill the gaps in topics covered at Level Up Academy classes.
+- Online Courses: Brush up with [Level Up Academy](https://www.levelupacademy.tech/) recorded sessions. Platforms like
+  Udemy, Coursera, and Pluralsight offer courses on QA fundamentals, automation tools, and programming languages, these
+  course will help you to brush up the learned knowledge and fill the gaps in topics covered at Level Up Academy
+  classes.
 
-- Forums and Communities: Join QA communities like SQA Forums, Ministry of Testing, or TechWell to stay updated on trends and best practices.
+- Forums and Communities: Join QA communities like SQA Forums, Ministry of Testing, or TechWell to stay updated on
+  trends and best practices.
 
-
-**By following this plan, integrating technical knowledge with industry-specific insights, and effectively presenting your skills and experiences, you'll be well-prepared for technical interviews in QA and related roles within the finance sector.**
+**By following this plan, integrating technical knowledge with industry-specific insights, and effectively presenting
+your skills and experiences, you'll be well-prepared for technical interviews in QA and related roles within the finance
+sector.**
 
 
 -------
 
 # Preparation for technical part of QA, BA or Production Support Interviews
 
-Incorporating SQL, database knowledge, and Linux command line skills into your technical preparation is essential, especially for roles in QA and production support within finance and trading environments. These skills not only enhance your ability to analyze data but also empower you to troubleshoot and resolve issues more effectively. Here’s how you can approach this:
+Incorporating SQL, database knowledge, and Linux command line skills into your technical preparation is essential,
+especially for roles in QA and production support within finance and trading environments. These skills not only enhance
+your ability to analyze data but also empower you to troubleshoot and resolve issues more effectively. Here’s how you
+can approach this:
 
 ## SQL and Database Knowledge
-Understand SQL Basics: Master the fundamentals of SQL, including SELECT statements, JOINs, WHERE clauses, GROUP BY, and ORDER BY. These are crucial for querying and analyzing data within databases.
 
-Practice Complex Queries: Work on complex SQL queries that involve subqueries, nested SELECT statements, and advanced functions. Financial databases often contain complex structures and large volumes of data.
+Understand SQL Basics: Master the fundamentals of SQL, including SELECT statements, JOINs, WHERE clauses, GROUP BY, and
+ORDER BY. These are crucial for querying and analyzing data within databases.
 
-Learn Database Design and Management: Gain an understanding of how databases are designed, normalized, and managed. Knowledge of transactions, indexing, and database optimization techniques can be particularly valuable.
+Practice Complex Queries: Work on complex SQL queries that involve subqueries, nested SELECT statements, and advanced
+functions. Financial databases often contain complex structures and large volumes of data.
 
-Hands-on Practice: Use platforms like w3schools/sql, sqlzoo.net, LeetCode, HackerRank, or real-life projects to practice your SQL skills. Working with financial datasets or trading system databases can provide relevant experience.
+Learn Database Design and Management: Gain an understanding of how databases are designed, normalized, and managed.
+Knowledge of transactions, indexing, and database optimization techniques can be particularly valuable.
+
+Hands-on Practice: Use platforms like w3schools/sql, sqlzoo.net, LeetCode, HackerRank, or real-life projects to practice
+your SQL skills. Working with financial datasets or trading system databases can provide relevant experience.
 
 ## Linux and Command Line for Troubleshooting
-Basic to Advanced Linux Commands: Start with basic Linux commands for file management, navigation, and viewing contents (ls, cd, cat, grep, find, etc.). Progress to network troubleshooting commands (ping, netstat, ss, curl) and system monitoring (top, htop, vmstat, iostat).
 
-Shell Scripting: Learn basic shell scripting to automate routine tasks. This can be particularly useful for setting up test environments, data extraction, and automating the deployment of software patches.
+Basic to Advanced Linux Commands: Start with basic Linux commands for file management, navigation, and viewing
+contents (ls, cd, cat, grep, find, etc.). Progress to network troubleshooting commands (ping, netstat, ss, curl) and
+system monitoring (top, htop, vmstat, iostat).
 
-Troubleshooting and Monitoring: Get familiar with troubleshooting techniques using command line tools. Learn how to monitor system resources, analyze logs with tools like tail and awk, and diagnose common issues in a Linux environment.
+Shell Scripting: Learn basic shell scripting to automate routine tasks. This can be particularly useful for setting up
+test environments, data extraction, and automating the deployment of software patches.
 
-Secure Shell (SSH) for Remote Management: Understand how to use SSH for secure remote access to servers and devices. This is crucial for both QA and production support roles, where remote troubleshooting is common.
+Troubleshooting and Monitoring: Get familiar with troubleshooting techniques using command line tools. Learn how to
+monitor system resources, analyze logs with tools like tail and awk, and diagnose common issues in a Linux environment.
+
+Secure Shell (SSH) for Remote Management: Understand how to use SSH for secure remote access to servers and devices.
+This is crucial for both QA and production support roles, where remote troubleshooting is common.
 
 ## Integrating SQL, Database, and Linux Skills into Your Preparation
-Project-Based Learning: Apply your skills in real-world or simulated projects that mimic finance/trading systems. This can involve setting up databases, querying for data analysis, and using Linux for system management.
 
-Online Courses and Tutorials: Platforms like Coursera, edX, and Udemy offer courses on SQL, databases, and Linux. Look for courses specific to finance and trading to gain relevant knowledge.
+Project-Based Learning: Apply your skills in real-world or simulated projects that mimic finance/trading systems. This
+can involve setting up databases, querying for data analysis, and using Linux for system management.
 
-Participate in QA and DevOps Communities: Join forums, online communities, and social media groups focused on QA, DevOps in finance, and trading systems. Engaging with professionals in the field can provide insights and tips on using these skills effectively.
+Online Courses and Tutorials: Platforms like Coursera, edX, and Udemy offer courses on SQL, databases, and Linux. Look
+for courses specific to finance and trading to gain relevant knowledge.
 
-Practice and Review: Regularly review and practice your skills to keep them sharp. Set up a home lab environment where you can experiment with Linux servers, deploy databases, and practice troubleshooting scenarios.
+Participate in QA and DevOps Communities: Join forums, online communities, and social media groups focused on QA, DevOps
+in finance, and trading systems. Engaging with professionals in the field can provide insights and tips on using these
+skills effectively.
 
-**Incorporating these areas into your technical preparation will not only make you a stronger candidate for QA and production support roles but also provide you with a solid foundation for tackling complex challenges in the finance and trading sectors.**
+Practice and Review: Regularly review and practice your skills to keep them sharp. Set up a home lab environment where
+you can experiment with Linux servers, deploy databases, and practice troubleshooting scenarios.
+
+**Incorporating these areas into your technical preparation will not only make you a stronger candidate for QA and
+production support roles but also provide you with a solid foundation for tackling complex challenges in the finance and
+trading sectors.**
 
 
 ------
 
 # Preparing for a coding interviews in the QA
 
-Preparing for a technical interview in the QA field involves a mix of technical knowledge, practical skills, and soft skills. Here are some tips and resources to help you get ready:
+Preparing for a technical interview in the QA field involves a mix of technical knowledge, practical skills, and soft
+skills. Here are some tips and resources to help you get ready:
 
 ## Technical Knowledge:
-Master the Basics: Ensure you have a strong understanding of the basics of software testing, including different testing types and methodologies1.
-Programming Languages: If the role involves test automation, be proficient in relevant programming languages and frameworks like Selenium, Puppeteer, Cypress, or Playwright1.
+
+Master the Basics: Ensure you have a strong understanding of the basics of software testing, including different testing
+types and methodologies1.
+Programming Languages: If the role involves test automation, be proficient in relevant programming languages and
+frameworks like Selenium, Puppeteer, Cypress, or Playwright1.
 Practical Skills:
 
 Practice Coding: Engage in coding challenges and projects to sharpen your programming skills2.
 Test Automation: Familiarize yourself with test automation tools and practice writing scripts for automated tests1.
 Soft Skills:
 
-Problem-Solving: Be prepared to demonstrate your problem-solving skills through technical tasks or whiteboard sessions during the interview1.
-Communication: Practice articulating your thought process clearly and effectively, as this is often assessed during technical interviews1.
+Problem-Solving: Be prepared to demonstrate your problem-solving skills through technical tasks or whiteboard sessions
+during the interview1.
+Communication: Practice articulating your thought process clearly and effectively, as this is often assessed during
+technical interviews1.
 
 ## Subjects to get familiar for Coding interviews
 
@@ -193,14 +230,13 @@ You don't need to go to medium or hard questions, make sure you filter the probl
 1. https://www.hackerrank.com/  (Great of QA Analysts, QA engineers, SDET)
 2. https://leetcode.com/  (Preferred for Software Engineers, SDET)
 
-
 -----
 
 ## Contact US
 
-Akmal, Lenur, Said (text, call or telegram )
-Level Up Academy Telegram Public Group: https://t.me/+R45QSwvqV3A2pkrc
-Office tel: (646) 470-0764
-Website: https://www.levelupacademy.tech/
-Facebook: https://www.facebook.com/levelupacademytech
-Instagram: https://www.instagram.com/levelupacademytech
+- Akmal, Lenur, Said (text, call or telegram )
+- Level Up Academy Telegram Public Group: https://t.me/+R45QSwvqV3A2pkrc
+- Office tel: (646) 470-0764
+- Website: https://www.levelupacademy.tech/
+- Facebook: https://www.facebook.com/levelupacademytech
+- Instagram: https://www.instagram.com/levelupacademytech
